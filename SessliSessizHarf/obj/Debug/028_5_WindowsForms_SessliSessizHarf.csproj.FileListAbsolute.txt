@@ -1,0 +1,20 @@
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_5_WindowsForms_SessliSessizHarf\bin\Debug\028_5_WindowsForms_SessliSessizHarf.exe.config
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_5_WindowsForms_SessliSessizHarf\bin\Debug\028_5_WindowsForms_SessliSessizHarf.exe
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_5_WindowsForms_SessliSessizHarf\bin\Debug\028_5_WindowsForms_SessliSessizHarf.pdb
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_5_WindowsForms_SessliSessizHarf\obj\Debug\_028_5_WindowsForms_SessliSessizHarf.Form1.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_5_WindowsForms_SessliSessizHarf\obj\Debug\_028_5_WindowsForms_SessliSessizHarf.Properties.Resources.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_5_WindowsForms_SessliSessizHarf\obj\Debug\028_5_WindowsForms_SessliSessizHarf.csproj.GenerateResource.cache
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_5_WindowsForms_SessliSessizHarf\obj\Debug\028_5_WindowsForms_SessliSessizHarf.csproj.CoreCompileInputs.cache
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_5_WindowsForms_SessliSessizHarf\obj\Debug\028_5_WindowsForms_SessliSessizHarf.exe
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_5_WindowsForms_SessliSessizHarf\obj\Debug\028_5_WindowsForms_SessliSessizHarf.pdb
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_5_WindowsForms_SessliSessizHarf\obj\Debug\028_5_WindowsForms_SessliSessizHarf.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\027_SqlAdoNetWindowsFormsCourse\SessliSessizHarf\bin\Debug\028_5_WindowsForms_SessliSessizHarf.exe.config
+C:\Users\user\Desktop\027_SqlAdoNetWindowsFormsCourse\SessliSessizHarf\bin\Debug\028_5_WindowsForms_SessliSessizHarf.exe
+C:\Users\user\Desktop\027_SqlAdoNetWindowsFormsCourse\SessliSessizHarf\bin\Debug\028_5_WindowsForms_SessliSessizHarf.pdb
+C:\Users\user\Desktop\027_SqlAdoNetWindowsFormsCourse\SessliSessizHarf\obj\Debug\028_5_WindowsForms_SessliSessizHarf.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\027_SqlAdoNetWindowsFormsCourse\SessliSessizHarf\obj\Debug\_028_5_WindowsForms_SessliSessizHarf.Form1.resources
+C:\Users\user\Desktop\027_SqlAdoNetWindowsFormsCourse\SessliSessizHarf\obj\Debug\_028_5_WindowsForms_SessliSessizHarf.Properties.Resources.resources
+C:\Users\user\Desktop\027_SqlAdoNetWindowsFormsCourse\SessliSessizHarf\obj\Debug\028_5_WindowsForms_SessliSessizHarf.csproj.GenerateResource.cache
+C:\Users\user\Desktop\027_SqlAdoNetWindowsFormsCourse\SessliSessizHarf\obj\Debug\028_5_WindowsForms_SessliSessizHarf.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\027_SqlAdoNetWindowsFormsCourse\SessliSessizHarf\obj\Debug\028_5_WindowsForms_SessliSessizHarf.exe
+C:\Users\user\Desktop\027_SqlAdoNetWindowsFormsCourse\SessliSessizHarf\obj\Debug\028_5_WindowsForms_SessliSessizHarf.pdb
